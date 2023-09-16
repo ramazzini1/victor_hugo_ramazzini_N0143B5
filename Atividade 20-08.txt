@@ -1,0 +1,37 @@
+					TAGS HTML 5
+
+   Pode-se definir como tags em html, elementos de marcação que são utilizados com o intuito de estruturar e 
+dar significado ao conteúdo de uma página web. A "tag" seria a parte de um código delimitado por colchetes 
+angulares, visando inserir diversos tipos de elementos, como imagens, formulários, testo, multimídia e etc.
+   As tags possuem um papel fundamental na construção de uma página web, montando sua estrutura lógica e visual.
+Elas evoluíram das versões antepassadas do HTML, para fornecer recursos mais avançados e semânticos. Os desenvol_
+vedores são os grandes beneficiados nesse processo, pois facilita a integração com tecnologias modernas, como 
+por exemplo CSS3 e JavaScript.
+   Abaixo estão algumas Tags e seu respectivo significado:
+
+	- <!DOCTYPE html> : Transforma o documento em HTML5.
+	- <html> : Delimita o início e fim do documento HTML.
+	- <head> : Possui as informações a respeito do documento, como título, links e recursos externos.
+	- <title> : Título da página que é exibido na barra do navegador ou guia.
+	- <link> : Conecta o documento a recursos externos, como o CSS.
+	- <body> : Conteúdo principal da página, podendo ser texto, imagens, vídeos ou outro tipo de mídia.
+	- <img> : Incorpora imagens na página.
+	- <video> : Incorpora vídeos na página.
+	- <audio> : Incorpora áudio na página.
+	- <input> : Cria um campo de entrada, como caixas de texto, botões de rádio, caixas de seleção e etc.
+	- <button> : Cria um botão.
+	- <label> : Rotula elementos de formulários para facilitar a acessibilidade.
+	- <header> : Define o cabeçalho da página.
+	- <footer> : Define o rodapé da página.
+	- <table> : Cria uma tabela.
+	- <p> : Define parágrafo de texto.
+	- <ol> : Cria uma lista ordenada.
+
+   Além dessas tags, o HTML5 oferece outras diversas tags que são utilizadas para criação de conteúdo na WEB, acima 
+foram listadas apenas algumas das mais utilizadas.
+
+
+			REFERENCIAS
+
+			https://gist.github.com/profburnes/9d4d0ae6926e3adb6be7a9f6d1194064
+			https://hcode.com.br/blog/html5-guia-completo-01-o-que-sao-tags
