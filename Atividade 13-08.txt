@@ -1,0 +1,52 @@
+                                        HTML 5
+
+    O processo de criação e desenvolvimento do HTML5 foi um esforço colaborativo 
+envolvendo  várias partes interessadas da indústria de tecnologia, organizações de 
+padrões e desenvolvedores individuais. O processo não foi liderado por uma única 
+entidade, mas sim coordenado entre várias organizações para garantir que as necessidades 
+da web moderna fossem atendidas, como por exemplo Motivação para Atualização; Formação de 
+Grupos de Trabalho; Discussões e Propostas; Especificações e Rascunhos e etc.
+    O HTML5 é a quinta revisão do HyperText Markup Language (HTML), que é a linguagem 
+padrão para criar e estruturar conteúdo na World Wide Web. Lançado em outubro de 2014, 
+o HTML5 trouxe muitas melhorias e recursos novos em relação às versões anteriores do HTML.
+    O HTML5, ou HyperText Markup Language 5, é uma linguagem de marcação usada para criar 
+e estruturar conteúdo na web. Ele serve como a base para a construção de páginas da web, 
+permitindo aos desenvolvedores definir a estrutura, o layout e o conteúdo de uma página. 
+Aqui estão algumas das principais finalidades e funções do HTML5: Estruturação de Conteúdo; 
+Semântica; Mídia Incorporada e etc.
+    O HTML5 trouxe várias diferenças significativas em relação às suas versões anteriores, como 
+o HTML 4.01 e o XHTML 1.0. Podemos citar algumas das melhorias em relação às suas versões anteriores:
+        * Mídia Incorporada: O HTML5 trouxe suporte nativo para conteúdo de mídia incorporada, como vídeo e áudio.
+        * Formulários Avançados: Os elementos de formulário no HTML5 foram aprimorados com novos tipos de entrada 
+        (como type="email" e type="date"), validação de formulário no lado do cliente e suporte a campos de entrada
+         personalizados.
+         * Acessibilidade Aprimorada: A introdução de elementos semânticos e atributos específicos no HTML5 ajudou 
+         a melhorar a acessibilidade dos sites para pessoas com deficiências, tornando mais fácil para os leitores 
+         de tela e outros dispositivos entenderem a estrutura e o conteúdo.
+
+
+                                    MOTORES DE NAVEGADOR
+
+    
+    Os navegadores da web são softwares que interpretam e exibem o conteúdo da web, como 
+páginas HTML, CSS e JavaScript. Cada navegador utiliza um mecanismo ou motor de renderização 
+para processar e exibir o conteúdo da web de maneira adequada. Abaixo estão algumas das principais
+diferenças entre esses motores:
+        * WebKit/Blink (Safari, Chrome, Edge) - WebKit é um mecanismo de renderização de código aberto 
+    inicialmente desenvolvido pela Apple para o navegador Safari. Blink é um fork do WebKit criado pelo 
+    Google para o navegador Chrome, após divergências com a direção do desenvolvimento do WebKit. O 
+    mecanismo Blink é usado tanto no Google Chrome quanto no Microsoft Edge (a partir da versão Chromium-based).
+    Tanto o WebKit quanto o Blink são conhecidos por seu foco em desempenho e suporte a padrões web.
+        * GECKO (FIREFOX) - Gecko é o mecanismo de renderização usado no navegador Firefox, desenvolvido pela Mozilla,
+    é conhecido por seu compromisso com padrões web e inovações de recursos.
+        * Trident (Internet Explorer): Trident foi o mecanismo de renderização usado no antigo navegador Internet Explorer 
+    da Microsoft. Ele era conhecido por não aderir completamente aos padrões da web e causava problemas de compatibilidade 
+    em algumas situações.
+
+
+
+                                         REFERÊNCIAS 
+
+        https://html.spec.whatwg.org/multipage/
+        "HTML5 Pocket Reference" por Jennifer Niederst Robbins
+        https://www.alura.com.br/artigos/as-engines-de-renderizacao-dos-browsers
